@@ -1,2 +1,4 @@
 ssh-keys
 .ipynb_checkpoints
+data
+*.zip
